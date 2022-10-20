@@ -1,1 +1,2 @@
-# JS-Games
+# JS Games & Solver
+ 
